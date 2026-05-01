@@ -4,8 +4,7 @@
 // @version      2.1.0
 // @description  конверт бабок из lzt.market/currency как в кб
 // @author       lolz.live/gay1234
-// @match        https://lolz.live/threads/*
-// @match        https://zelenka.guru/threads/*
+// @match        https://lolz.live/
 // @grant        GM_xmlhttpRequest
 // @connect      img.lolz.work
 // @run-at       document-end
